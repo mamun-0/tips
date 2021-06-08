@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/tips/static/css/main.45b02093.chunk.css",
+    "main.js": "/tips/static/js/main.31191d63.chunk.js",
+    "main.js.map": "/tips/static/js/main.31191d63.chunk.js.map",
+    "runtime-main.js": "/tips/static/js/runtime-main.26deeac9.js",
+    "runtime-main.js.map": "/tips/static/js/runtime-main.26deeac9.js.map",
+    "static/js/2.fc5fd590.chunk.js": "/tips/static/js/2.fc5fd590.chunk.js",
+    "static/js/2.fc5fd590.chunk.js.map": "/tips/static/js/2.fc5fd590.chunk.js.map",
+    "index.html": "/tips/index.html",
+    "static/css/main.45b02093.chunk.css.map": "/tips/static/css/main.45b02093.chunk.css.map",
+    "static/js/2.fc5fd590.chunk.js.LICENSE.txt": "/tips/static/js/2.fc5fd590.chunk.js.LICENSE.txt",
+    "static/media/0.5d61881b.PNG": "/tips/static/media/0.5d61881b.PNG",
+    "static/media/1.7a8532c8.PNG": "/tips/static/media/1.7a8532c8.PNG",
+    "static/media/2.fde95ab6.PNG": "/tips/static/media/2.fde95ab6.PNG",
+    "static/media/4.df24f060.PNG": "/tips/static/media/4.df24f060.PNG",
+    "static/media/5.01523c1a.PNG": "/tips/static/media/5.01523c1a.PNG",
+    "static/media/profile.c4cd57cd.jpg": "/tips/static/media/profile.c4cd57cd.jpg",
+    "static/media/s1-.bf87aaee.png": "/tips/static/media/s1-.bf87aaee.png",
+    "static/media/s1.b64d7453.png": "/tips/static/media/s1.b64d7453.png",
+    "static/media/s10.1efc662a.png": "/tips/static/media/s10.1efc662a.png",
+    "static/media/s2.22fe18a3.png": "/tips/static/media/s2.22fe18a3.png",
+    "static/media/s3.1f08c8fd.png": "/tips/static/media/s3.1f08c8fd.png",
+    "static/media/s4.e2d3311a.png": "/tips/static/media/s4.e2d3311a.png",
+    "static/media/s5.968d7cff.png": "/tips/static/media/s5.968d7cff.png",
+    "static/media/s6.ab3ecfae.png": "/tips/static/media/s6.ab3ecfae.png",
+    "static/media/s7.418234c6.png": "/tips/static/media/s7.418234c6.png",
+    "static/media/s9.ad91839a.png": "/tips/static/media/s9.ad91839a.png",
+    "static/media/ssh2.3147ffd4.PNG": "/tips/static/media/ssh2.3147ffd4.PNG",
+    "static/media/ssh3.69890e07.PNG": "/tips/static/media/ssh3.69890e07.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26deeac9.js",
+    "static/js/2.fc5fd590.chunk.js",
+    "static/css/main.45b02093.chunk.css",
+    "static/js/main.31191d63.chunk.js"
+  ]
+}
